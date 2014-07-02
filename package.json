@@ -1,6 +1,6 @@
 {
   "name": "checkimplements",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "check implements of defined interface",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "url": "https://github.com/letsface/checkimplements"
   },
   "keywords": ["interface"],
-  "author": "rogerz <rogerz@letsface.com>",
-  "license": "BSD-3-Clause",
+  "author": "rngadam <rngadam@letsface.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/letsface/checkimplements/issues"
   },
